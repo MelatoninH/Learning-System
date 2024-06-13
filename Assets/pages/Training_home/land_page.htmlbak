@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+   <div class="navbar">
+    <ul>
+      <li>ACEMC E-LEARNING</li>
+      <li>Home</li>
+      <li>Profile</li>
+    </ul>
+   </div>
+   <!--HEADER-->
+   <section class="header">
+   
+    <div class="header-group">
+      <div class="heading-desc">
+        <p>
+          <h1>Welcome to Allied Care Experts Palawan Portal</h1> 
+          <br>This portal equips you with everything you need to excel in your role and support our mission of exceptional healthcare. Access updates, manage schedules, review policies, and engage in development opportunities. Together, let's thrive and make a meaningful impact. Thank you for being part of our family.
+        </p>
+        
+      </div>
+      <div class="video-promo">
+        <video  controls>
+          <source src="movie.mp4" type="video/mp4">
+          <source src="movie.ogg" type="video/ogg">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </div>
+    
+   </section>
+   <!--Trainings-->
+   <section>
+    
+    <div class="main-training">
+     
+      <div class="training-holder">
+        <div class="training-cards">
+          <div class="container">
+            <h4><b>BIZBOX TRAINING</b></h4> 
+            
+            <video  controls>
+              <source src="movie.mp4" type="video/mp4">
+              <source src="movie.ogg" type="video/ogg">
+              Your browser does not support the video tag.
+            </video>
+            <p>Welcome to BizBox Apps Training! This program is designed to help employees effectively use BizBox's business applications, enhancing productivity and streamlining operations. Join us to master these tools and contribute to our success.</p> 
+
+            <div class="goto-button">
+              <button class="startbutton">
+                Start Here
+              </button>
+              <br>
+              <button class="resumebutton">
+                Resume
+              </button>
+            </div>
+          </div>
+         
+        </div>  <div class="training-cards">
+          <div class="container">
+            <h4><b>BIZBOX TRAINING</b></h4> 
+            
+            <video  controls>
+              <source src="movie.mp4" type="video/mp4">
+              <source src="movie.ogg" type="video/ogg">
+              Your browser does not support the video tag.
+            </video>
+            <p>Welcome to BizBox Apps Training! This program is designed to help employees effectively use BizBox's business applications, enhancing productivity and streamlining operations. Join us to master these tools and contribute to our success.</p> 
+
+            <div class="goto-button">
+              <button class="startbutton">
+                Start Here
+              </button>
+              <br>
+              <button class="resumebutton">
+                Resume
+              </button>
+            </div>
+          </div>
+         
+        </div> <div class="training-cards">
+          <div class="container">
+            <h4><b>BIZBOX TRAINING</b></h4> 
+            
+            <video  controls>
+              <source src="movie.mp4" type="video/mp4">
+              <source src="movie.ogg" type="video/ogg">
+              Your browser does not support the video tag.
+            </video>
+            <p>Welcome to BizBox Apps Training! This program is designed to help employees effectively use BizBox's business applications, enhancing productivity and streamlining operations. Join us to master these tools and contribute to our success.</p> 
+
+            <div class="goto-button">
+              <button class="startbutton">
+                Start Here
+              </button>
+              <br>
+              <button class="resumebutton">
+                Resume
+              </button>
+            </div>
+          </div>
+         
+        </div>
+      </div>
+      
+      
+    </div>
+   </section>
+   <!--Forms-->
+   <section>
+
+   </section>
+</body>
+</html>
